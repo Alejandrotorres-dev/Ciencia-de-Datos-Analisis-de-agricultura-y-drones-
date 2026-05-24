@@ -1,3 +1,4 @@
+factor_analyzer==NA
 feature_engine==1.9.4
 matplotlib==3.10.0
 missingno==0.5.2
